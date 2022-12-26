@@ -1,6 +1,6 @@
 {
-  "name": "svgicons",
-  "version": "0.0.0",
+  "name": "react-svg-icons",
+  "version": "0.0.1",
   "private": true,
   "workspaces": [
     "apps/*",
