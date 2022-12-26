@@ -1,7 +1,7 @@
 {
-  "name": "@react-svg-icons/web",
-  "version": "0.0.2",
-  "description": "react icon libray",
+  "name": "@react-svg-icons/emoji",
+  "version": "0.0.1",
+  "description": "react emoji icon libray",
   "main": "./dist/cjs/index.js",
   "files": [
     "dist",
