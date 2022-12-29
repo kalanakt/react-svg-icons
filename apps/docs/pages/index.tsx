@@ -1,5 +1,4 @@
 import { Button } from "ui";
-import { HomeIcon } from "webicon"
 
 export default function Docs() {
   return (
