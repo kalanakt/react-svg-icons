@@ -31,6 +31,21 @@ import {
   ListIcon,
   LocationIcon,
   MapIcon,
+  MusicIcon,
+  MicrophoneIcon,
+  MegaphoneIcon,
+  MonitorIcon,
+  MobileIcon,
+  SitemapIcon,
+  SearchIcon,
+  RssIcon,
+  RightIcon,
+  PowerIcon,
+  ProcessIcon,
+  PinIcon,
+  PhotoIcon,
+  PaperIcon,
+  PerformanceIcon,
 } from '../src'
 
 function IconList() {
@@ -64,6 +79,21 @@ function IconList() {
       <ListIcon />
       <LocationIcon />
       <MapIcon />
+      <MusicIcon />
+      <MicrophoneIcon />
+      <MegaphoneIcon />
+      <MonitorIcon />
+      <MobileIcon />
+      <SitemapIcon />
+      <SearchIcon />
+      <RssIcon />
+      <RightIcon />
+      <PowerIcon />
+      <ProcessIcon />
+      <PinIcon />
+      <PhotoIcon />
+      <PaperIcon />
+      <PerformanceIcon />
     </div>
   )
 }

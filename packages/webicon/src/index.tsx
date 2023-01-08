@@ -26,6 +26,21 @@ import LinkIcon from './LinkIcon'
 import ListIcon from './ListIcon'
 import LocationIcon from './LocationIcon'
 import MapIcon from './MapIcon'
+import MusicIcon from './MusicIcon'
+import MicrophoneIcon from './MicrophoneIcon'
+import MegaphoneIcon from './MegaphoneIcon'
+import MonitorIcon from './MonitorIcon'
+import MobileIcon from './MobileIcon'
+import PerformanceIcon from './PerformanceIcon'
+import PaperIcon from './PaperIcon'
+import PhotoIcon from './PhotoIcon'
+import PinIcon from './PinIcon'
+import ProcessIcon from './ProcessIcon'
+import PowerIcon from './PowerIcon'
+import RightIcon from './RightIcon'
+import RssIcon from './RssIcon'
+import SearchIcon from './SearchIcon'
+import SitemapIcon from './SitemapIcon'
 
 export {
   HomeIcon,
@@ -56,4 +71,19 @@ export {
   ListIcon,
   LocationIcon,
   MapIcon,
+  MusicIcon,
+  MicrophoneIcon,
+  MegaphoneIcon,
+  MonitorIcon,
+  MobileIcon,
+  SitemapIcon,
+  SearchIcon,
+  RssIcon,
+  RightIcon,
+  PowerIcon,
+  ProcessIcon,
+  PerformanceIcon,
+  PinIcon,
+  PhotoIcon,
+  PaperIcon,
 }
