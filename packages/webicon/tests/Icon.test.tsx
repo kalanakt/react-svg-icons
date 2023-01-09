@@ -46,6 +46,11 @@ import {
   PhotoIcon,
   PaperIcon,
   PerformanceIcon,
+  StarIcon,
+  StatsIcon,
+  TagIcon,
+  UserIcon,
+  UpIcon,
 } from '../src'
 
 function IconList() {
@@ -94,6 +99,11 @@ function IconList() {
       <PhotoIcon />
       <PaperIcon />
       <PerformanceIcon />
+      <StarIcon />
+      <StatsIcon />
+      <TagIcon />
+      <UserIcon />
+      <UpIcon />
     </div>
   )
 }

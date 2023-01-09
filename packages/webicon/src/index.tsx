@@ -41,6 +41,11 @@ import RightIcon from './RightIcon'
 import RssIcon from './RssIcon'
 import SearchIcon from './SearchIcon'
 import SitemapIcon from './SitemapIcon'
+import StarIcon from './StarIcon'
+import StatsIcon from './StatsIcon'
+import TagIcon from './TagIcon'
+import UserIcon from './UserIcon'
+import UpIcon from './UpIcon'
 
 export {
   HomeIcon,
@@ -86,4 +91,9 @@ export {
   PinIcon,
   PhotoIcon,
   PaperIcon,
+  StarIcon,
+  StatsIcon,
+  TagIcon,
+  UserIcon,
+  UpIcon,
 }
