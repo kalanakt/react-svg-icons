@@ -46,6 +46,26 @@ import StatsIcon from './StatsIcon'
 import TagIcon from './TagIcon'
 import UserIcon from './UserIcon'
 import UpIcon from './UpIcon'
+import UploadIcon from './UploadIcon'
+import SvgIcon from './SvgIcon'
+import VideoIcon from './VideoIcon'
+import ArchiveIcon from './ArchiveIcon'
+import ArrowDownIcon from './ArrowDownIcon'
+import ArrowLeftIcon from './ArrowLeftIcon'
+import ArrowRightIcon from './ArrowRightIcon'
+import ArrowUpIcon from './ArrowUpIcon'
+import ArticleIcon from './ArticleIcon'
+import AtIcon from './AtIcon'
+import AwardIcon from './AwardIcon'
+import AttachmentIcon from './AttachmentIcon'
+import MoonIcon from './MoonIcon'
+import SunIcon from './SunIcon'
+import BellRingIcon from './BellRingIcon'
+import BellSlashIcon from './BellSlashIcon'
+import BellOffIcon from './BellOffIcon'
+import BellPlusIcon from './BellPlusIcon'
+import BellMinusIcon from './BellMinusIcon'
+import BellIcon from './BellIcon'
 
 export {
   HomeIcon,
@@ -96,4 +116,24 @@ export {
   TagIcon,
   UserIcon,
   UpIcon,
+  UploadIcon,
+  SvgIcon,
+  VideoIcon,
+  ArchiveIcon,
+  ArrowDownIcon,
+  ArrowLeftIcon,
+  ArrowRightIcon,
+  ArrowUpIcon,
+  ArticleIcon,
+  AtIcon,
+  AwardIcon,
+  AttachmentIcon,
+  MoonIcon,
+  SunIcon,
+  BellIcon,
+  BellRingIcon,
+  BellSlashIcon,
+  BellOffIcon,
+  BellPlusIcon,
+  BellMinusIcon,
 }

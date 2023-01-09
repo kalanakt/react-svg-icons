@@ -51,6 +51,26 @@ import {
   TagIcon,
   UserIcon,
   UpIcon,
+  UploadIcon,
+  SvgIcon,
+  VideoIcon,
+  ArchiveIcon,
+  ArrowDownIcon,
+  ArrowLeftIcon,
+  ArrowRightIcon,
+  ArrowUpIcon,
+  ArticleIcon,
+  AtIcon,
+  AwardIcon,
+  AttachmentIcon,
+  MoonIcon,
+  SunIcon,
+  BellIcon,
+  BellRingIcon,
+  BellSlashIcon,
+  BellOffIcon,
+  BellPlusIcon,
+  BellMinusIcon,
 } from '../src'
 
 function IconList() {
@@ -104,6 +124,26 @@ function IconList() {
       <TagIcon />
       <UserIcon />
       <UpIcon />
+      <UploadIcon />
+      <SvgIcon />
+      <VideoIcon />
+      <ArchiveIcon />
+      <ArrowDownIcon />
+      <ArrowLeftIcon />
+      <ArrowRightIcon />
+      <ArrowUpIcon />
+      <ArticleIcon />
+      <AtIcon />
+      <AwardIcon />
+      <AttachmentIcon />
+      <MoonIcon />
+      <SunIcon />
+      <BellIcon />
+      <BellRingIcon />
+      <BellSlashIcon />
+      <BellOffIcon />
+      <BellPlusIcon />
+      <BellMinusIcon />
     </div>
   )
 }
