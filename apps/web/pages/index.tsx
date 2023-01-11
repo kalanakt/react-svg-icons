@@ -72,7 +72,7 @@ import {
 export default function Web() {
   return (
     <div className='box'>
-      <style tsx>{`
+      <style jsx>{`
          p {
            color: blue;
          }
